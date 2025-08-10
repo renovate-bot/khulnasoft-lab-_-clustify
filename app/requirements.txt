@@ -11,7 +11,7 @@ idna==2.5
 ipaddress==1.0.18
 pycparser==2.21
 requests==2.31.0
-schedule==0.4.3
+schedule==0.6.0
 six==1.10.0
 urllib3==2.1.0
 websocket==0.2.1
